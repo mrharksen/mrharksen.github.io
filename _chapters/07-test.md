@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kafli 3: Test"
+title:  "Kafli 7: Test"
 date:   2025-02-22
 categories: jekyll update
 ---
