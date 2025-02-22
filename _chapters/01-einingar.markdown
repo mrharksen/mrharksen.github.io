@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kafli 2: Einingar"
-date:   2025-02-22
+title:  "Kafli 1: Einingar"
+date:   2025-02-21
 categories: jekyll update
 ---
 ## SI-einingakerfið og mælistærðir
