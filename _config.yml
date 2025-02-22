@@ -7,7 +7,7 @@ url: "https://mrharksen.github.io"
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 2
 
 favicon_path: /assets/gitbook/images/favicon.ico
 
@@ -17,15 +17,15 @@ remote_theme: sighingnow/jekyll-gitbook
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
   chapters:
     output: true
     permalink: /:path/
 
 ordered_collections:
   - posts
-  - pages
   - chapters
+  - pages
 
 plugins:
   - jekyll-remote-theme
