@@ -1,0 +1,29 @@
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ],
+    macros: {
+      unit: ["{\\,\\mathrm{#1}}", 1],         // \unit{m} → " m"
+      si: ["{\\mathrm{#1}}", 1],              // \si{m} → "m" (non-italicized SI units)
+      degC: "{^{\\circ}\\mathrm{C}}",        // \degC → "°C"
+      tothe: ["{\\times 10^{#1}}", 1],       // \tothe{3} → "×10^3"
+
+      // \SI command with Icelandic decimal format
+      SI: ["{\\text{#1} \\; \\mathrm{#2}}", 2],  
+
+      // Handle uncertainty: \SI{4,0(5)}{m} → "4,0 ± 0,5 m"
+      SIunc: ["{\\mathrm{#1} \\pm \\mathrm{#2} \\; \\mathrm{#3}}", 3],  
+      
+      // Handle scientific notation: \SI{4,0e3}{kg/m^3} → "4,0 × 10³ kg/m³"
+      SIexp: ["{\\mathrm{#1} \\cdot 10^{#2} \\; \\mathrm{#3}}", 3]
+    }
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script
+  type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
