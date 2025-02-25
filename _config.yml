@@ -21,11 +21,15 @@ collections:
   chapters:
     output: true
     permalink: /:path/
+  keppnir:
+    output: true
+    permalink: /:path/
 
 ordered_collections:
   - posts
   - chapters
   - pages
+  - keppnir
 
 plugins:
   - jekyll-remote-theme
