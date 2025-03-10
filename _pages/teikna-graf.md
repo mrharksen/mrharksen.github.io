@@ -5,7 +5,7 @@ date:   2025-02-21
 categories: jekyll update
 ---
 
-[Millimetrapappír](assets/pdfs/mmpappir.pdf){:target="_blank"}
+<a href="/assets/pdfs/mmpappir.pdf" target="_blank">Millimetrappappír</a>
 
 Hvernig á að gera graf í höndunum:
 
