@@ -33,7 +33,7 @@ categories: jekyll update
     <th>Lausnir</th>
   </tr>
 
-  {% assign years = (3..24) | reverse %}
+  {% assign years = (3..25) | reverse %}
 
   {% for i in years %}
     {% assign year = i | plus: 2000 %}
