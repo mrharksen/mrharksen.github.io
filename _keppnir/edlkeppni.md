@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Þjálfun
 
-<a href="/assets/pdfs/oly-thjalfun/dagur1.pdf" target="_blank">Dagur 1 – PDF</a>
+<a href="/assets/pdfs/oly-thjalfun/dagur1.pdf" target="_blank">Dagur 1</a>
 
 ## Forkeppnin
 
