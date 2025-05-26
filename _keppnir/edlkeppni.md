@@ -7,7 +7,18 @@ categories: jekyll update
 
 ## Þjálfun
 
-<a href="/assets/pdfs/oly-thjalfun/dagur1.pdf" target="_blank">Dagur 1</a>
+<a href="/assets/pdfs/oly-thjalfun/dagskra.pdf" target="_blank">
+Þjálfunardagskrá</a>
+
+<a href="/assets/pdfs/oly-thjalfun/dagur1.pdf" target="_blank">
+Víddargreining, nálganir og töluleg greining</a>
+
+<a href="/assets/pdfs/oly-thjalfun/svor1.pdf" target="_blank">
+Svör við dæmum úr degi 1</a>
+
+<a href="/assets/pdfs/oly-thjalfun/dagur2.pdf" target="_blank">
+Óvissureikningar, diffurjöfnur, Fermi-dæmi og gröf</a>
+
 
 ## Forkeppnin
 
