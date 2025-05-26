@@ -5,6 +5,10 @@ date: 2025-02-24
 categories: jekyll update
 ---
 
+## Þjálfun
+
+<a href="/assets/pdfs/oly-thjalfun/dagur1.pdf" target="_blank">Dagur 1 – PDF</a>
+
 ## Forkeppnin
 
 Á hverju ári er haldin forkeppni til að skera úr um hverjum eigi að bjóða í úrslitakeppnina.
