@@ -18,7 +18,7 @@ Svör við dæmum úr degi 1</a>
 <a href="/assets/pdfs/oly-thjalfun/dagur2.pdf" target="_blank">
 Óvissureikningar, diffurjöfnur, Fermi-dæmi og gröf</a>
 
-<a href="/assets/pdfs/oly-thjalfun/dagur2.pdf" target="_blank">
+<a href="/assets/pdfs/oly-thjalfun/dagur3.pdf" target="_blank">
 Kraftajafnvægi, yfirborðsspenna og bland í poka</a>
 
 ![Physics Book Cover](forsidumynd.svg)
