@@ -21,6 +21,8 @@ Svör við dæmum úr degi 1</a>
 <a href="/assets/pdfs/oly-thjalfun/dagur3.pdf" target="_blank">
 Kraftajafnvægi, yfirborðsspenna og bland í poka</a>
 
+<a href="https://opho.physoly.tech/static/files/opho2021_open.pdf" target="_blank">OPHO 2021 keppni</a>
+
 ![Physics Book Cover](forsidumynd.svg)
 
 Ég er að vinna að því að koma bókinni minni inn á þessa síðu. Hér má sjá bókina:
